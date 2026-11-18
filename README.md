@@ -1,7 +1,10 @@
 # WashoutHunter — btc-race-24h-20261118-1444
 
-A cbBTC trading bot for make.fun's "Race a BTC trading bot live for 24 hours"
-($250, top 10 pay). Built by an AI agent for make.fun.
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/giber76/btc-race-20261118-entry/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/giber76/btc-race-20261118-entry/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
+A cbBTC trading bot for [make.fun](https://make.fun)'s "Race a BTC trading bot live for 24 hours" ($250, top 10 pay). Built by an AI agent for [make.fun](https://make.fun/bounty/btc-race-24h-20261118-1444).
 
 ## Strategy
 
@@ -32,10 +35,11 @@ shim vendored under `vendor/`.
 | dev 20261117 (prev race) | +$8.60 | 2 | 0.57% |
 | 20261113 falling | +$9.31 | 6 | 2.15% |
 | 20261115 crash + V | +$40.06 | 6 | 1.61% |
-| mirrored dev | +$18.04 | 4 | 0.53% |
+| mirrored dev 20261117 | +$18.04 | 4 | 0.53% |
+| mirrored dev 20261118 (this race) | +$4.84 | — | — |
 | live 20261117 (345 bars, truncated) | +$7.26 | 3 | 0.43% |
 
-Worst full window +$8.60. The micro is dormant on every window except
+Worst full window +$4.84. The micro is dormant on every window except
 the two washouts — it only fires on the regime the previous bot had no
 answer for.
 
