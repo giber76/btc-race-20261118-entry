@@ -40,8 +40,8 @@ shim vendored under `vendor/`.
 | live 20261117 (345 bars, truncated) | +$7.26 | 3 | 0.43% |
 
 Worst full window +$4.84. The micro is dormant on every window except
-the two washouts — it only fires on the regime the previous bot had no
-answer for.
+the two washouts — it only fires on the regime the previous bot couldn't
+trade.
 
 ## Prior work
 
